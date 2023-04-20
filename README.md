@@ -8,7 +8,9 @@ The process of adding LunarAdmin into your game is straight forward and very sim
 
 ### Option 1: ( Easier )
 Simply type:
-```lua game:GetService("InsertService"):LoadAsset(***)``` in the command bar.
+```lua 
+game:GetService("InsertService"):LoadAsset(***)
+```
 then, on the "top bar", go to the tab "Home", here you can select "Game Settings", click on "Security", and turn on "Enable Studio Access to API Services".
 
 ### Option 2: ( Harder )
@@ -20,7 +22,8 @@ On the "top bar", go to the tab "Home", here you can select "Game Settings", cli
 
 ## Getting Started
 ### Using LunarAdmin
-To start using LunarAdmin, load into your game and type ```suck
+To start using LunarAdmin, load into your game and type ```!cmds``` in the chat, LunarAdmin should appear and bam, you now have LunarAdmin up and running!
+If LunarAdmin doesn't appear, check the output in the developer console by clicking ```F9``` and follow the instructions Lunar has printed, for more help, please message a moderator, developer, or founder on the [discordserver](https://discord.gg/6EhZfBWxVF) about your problem.
 
 ## Credits
 | Username | Position |
