@@ -5,14 +5,15 @@ LunarAdmin is an up-to-date administrative system for ROBLOX. LunarAdmin include
 ### How to add LunarAdmin into your game
 The process of adding LunarAdmin into your game is straight forward and very simple.
 
-Option 1: ( Easier )
+**Option 1: ( Easier )**
 Simply type:
 ```lua
 game:GetService("InsertService"):LoadAsset(***)
 ```
 then, on the "top bar", go to the tab "Home", here you can select "Game Settings", click on "Security", and turn on "Enable Studio Access to API Services".
 
-Option 2: ( Harder )
+**Option 2: ( Harder )**
+
 Go to: LUNARADMINLINK, and click "download". Then, open the toolbox in studio and navigate to "My Models", then drag in "LunarAdmin"
 On the "top bar", go to the tab "Home", here you can select "Game Settings", click on "Security", and turn on "Enable Studio Access to API Services".
 
