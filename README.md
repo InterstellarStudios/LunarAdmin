@@ -48,4 +48,5 @@ For further help, please message a moderator, developer, or founder on the [Disc
 
 <a href="https://discord.gg/6EhZfBWxVF"><img src="https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/images/Discord.jpg" alt="Discord" style="width:40px;height:40px;"></a>   <a href="https://twitter.com/Interstell51188"><img
 src="https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/images/Twitter.jpg" alt="Twitter" style="width:40px;height:40px;"></a>   <a href="https://www.roblox.com/groups/17339892"><img
-src="https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/images/Roblox.jpg" alt="Twitter" style="width:40px;height:40px;"></a>
+src="https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/images/Roblox.jpg" alt="Roblox" style="width:40px;height:40px;"></a>   <a href="https://www.youtube.com/channel/UCdeRSp_3uEfX12GI7IIVakw"><img
+src="https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/images/Youtube.jpg" alt="Youtube" style="width:40px;height:40px;"></a>
