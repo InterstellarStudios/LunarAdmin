@@ -1,3 +1,3 @@
 # LunarAdmin
 
-https://github.com/InterstellarStudios/LunarAdmin/blob/main/extra/images/LunarAdminFadeBack/raw
+https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/images/LunarAdminFadeBack.png
