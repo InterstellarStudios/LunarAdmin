@@ -1,5 +1,3 @@
 ![Screenshot](https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/images/LunarAdminFadeBack.png)
 
-```
-hello
-```
+## Adding LunarAdmin into your game
