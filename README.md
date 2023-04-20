@@ -39,3 +39,7 @@ For further help, please message a moderator, developer, or founder on the [Disc
 | N/A | Asset Modeler |
 | racingmason25 | Head Tester |
 | DrDeadIy | Tester | 
+
+---
+
+© 2023 Interstellar Studios. All rights reserved.
