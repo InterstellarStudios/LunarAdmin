@@ -43,4 +43,4 @@ For further help, please message a moderator, developer, or founder on the [Disc
 ---
 
 © 2023 Interstellar Studios. All rights reserved.
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">](https://twitter.com/yourusername)
+[<https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/images/Discord.jpg>](https://twitter.com/yourusername)
