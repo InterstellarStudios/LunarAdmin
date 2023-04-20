@@ -43,4 +43,4 @@ For further help, please message a moderator, developer, or founder on the [Disc
 ---
 
 © 2023 Interstellar Studios. All rights reserved.
-[![Discord](<img src="https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/images/Discord.jpg"width=200/>)](https://discord.gg/6EhZfBWxVF)
+[![Discord](<"https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/images/Discord.jpg"width=200/>)](https://discord.gg/6EhZfBWxVF)
