@@ -46,4 +46,4 @@ For further help, please message a moderator, developer, or founder on the [Disc
 
 ---
 
-<a href="https://discord.gg/6EhZfBWxVF"><img src="https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/images/Discord.jpg" alt="Discord" style="width:30px;height:30px;"></a>
+<a href="https://discord.gg/6EhZfBWxVF"><img src="https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/images/Discord.jpg" alt="Discord" style="width:40px;height:40px;"></a>
