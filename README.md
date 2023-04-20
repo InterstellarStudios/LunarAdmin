@@ -23,7 +23,8 @@ On the "top bar", go to the tab "Home", here you can select "Game Settings", cli
 ## Getting Started
 ### Using LunarAdmin
 To start using LunarAdmin, load into your game and type ```!cmds``` in the chat, LunarAdmin should appear and bam, you now have LunarAdmin up and running!
-If LunarAdmin doesn't appear, check the output in the developer console by clicking ```F9``` and follow the instructions Lunar has printed, for more help, please message a moderator, developer, or founder on the [Discord server](https://discord.gg/6EhZfBWxVF) about your problem.
+If LunarAdmin doesn't appear, check the output in the developer console by clicking ```F9``` and follow the instructions Lunar has printed. 
+For further help, please message a moderator, developer, or founder on the [Discord server](https://discord.gg/6EhZfBWxVF) about your problem.
 
 ## Credits
 | Username | Position |
