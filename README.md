@@ -5,4 +5,9 @@ LunarAdmin is an up-to-date administrative system for ROBLOX. LunarAdmin include
 ### How to add LunarAdmin into your game
 The process of adding LunarAdmin into your game is straight forward and very simple.
 
+Option 1: ( Easier )
+Simply type:
+```lua
+game:GetService("InsertService"):LoadAsset(***)
+```
 
