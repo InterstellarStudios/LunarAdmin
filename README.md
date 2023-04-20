@@ -20,3 +20,4 @@ On the "top bar", go to the tab "Home", here you can select "Game Settings", cli
 ![Turning on API Services: Video](https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/videos/VideoTutorial.mp4)
 
 #### Credits
+<sup><sub>Head Scriper: DrDeadIy
