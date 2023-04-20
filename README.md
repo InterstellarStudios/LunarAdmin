@@ -43,3 +43,4 @@ For further help, please message a moderator, developer, or founder on the [Disc
 ---
 
 © 2023 Interstellar Studios. All rights reserved.
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Interstell51188)
