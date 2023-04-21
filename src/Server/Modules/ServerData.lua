@@ -1,17 +1,15 @@
 local serverData = {}
 
+-- VARIABLES
 serverData.data = {
 }
 
+-- FUNCTIONS
 serverData.APIserviceTest = function()
     local error, success = pcall(function()
         local test = game:GetService("DataStoreService")
     end)
-    if success then
-        return true
-    else
-        return false
-    end
+    return success
 end
 
 serverData.editData = function ()
