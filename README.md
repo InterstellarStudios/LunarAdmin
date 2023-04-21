@@ -28,6 +28,9 @@ On the "top bar", go to the tab "Home", here you can select "Game Settings", cli
 To start using LunarAdmin, load into your game and type ```!cmds``` in the chat, LunarAdmin should appear and bam, you now have LunarAdmin up and running!
 If LunarAdmin doesn't appear, check the output in the developer console by clicking ```F9``` and follow the instructions Lunar has printed. 
 For further help, please message a moderator, developer, or founder on the [Discord server](https://discord.gg/6EhZfBWxVF) about your problem, you can also email ```interstellarstudioshelp@gmail.com```.
+### Creating and instering custom commands
+#### Creating Commands
+To create commands, start out by adding LunarAdmin into your game and navigating to "CustomFeatures" in custom features, you can either go to "Server", "Client" or "Shared"; pick the one that fits your command best.
 
 ## Credits
 | Username | Position |
