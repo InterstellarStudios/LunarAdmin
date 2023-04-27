@@ -22,23 +22,20 @@ From the "My Models" page, you can drag in "Lunar Admin".
 On the "top bar" of Roblox Studio, go to "Game Settings" and click on the "Security" tab. From their, you can toggle "API Services Enabled" on.
 
 ### Step 5: Testing and Configuring Lunar Admin
-Once you have LunarAdmin into your game, you can run the game in studio! If a menu pops up, you've done everything right! LunarAdmin will guide you through the process from there. If a menu doesn't pop up, say "$debug mainframe" in chat, if it still doesn't work, click "F9" and check for warnings made by LunarAdmin
+Once you have LunarAdmin into your game, you can run the game in studio! If a menu pops up, you've done everything right! LunarAdmin will guide you through the process from there. If a menu doesn't pop up, say "$debug gui" in chat, if it still doesn't work, click "F9" and check for warnings made by LunarAdmin
 
 [Turning on API Services: Download](https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/videos/VideoTutorial.mp4)
 [Turning on API Services: Youtube](https://www.youtube.com/watch?v=3q9dORz8yk0)
 
 ## Getting Started
 ### Using LunarAdmin
-To start using LunarAdmin, load into your game and type ```!cmds``` in the chat, LunarAdmin should appear and bam, you now have LunarAdmin up and running!
-If LunarAdmin doesn't appear, check the output in the developer console by clicking ```F9``` and follow the instructions Lunar has printed. 
+To start using LunarAdmin, load up your game and type ```!cmds``` in the chat, a menu should appear and display LunarAdmins GUI.
+Having trouble trying to find a cool command? You can search and or filter through command tags, such as; "Fun", "Moderation", and more! If you have been using LunarAdmin for a while, you'll have access to the "FYP" section where Lunar will display commands that Lunar thinks are a good fit for you! Lunar does this by using machine-learning programs that look at recent commands you've been using. If you are unhappy with the commands Lunar displays, you can click the "Don't show this kind of command anymore". Note that doing this will make it only not appear temporarily, and might show up again based on the commands you've been using!
+### Configuring your personal preference
+If you already have the LunarAdmin menu displayed, you can simply click the Settings icon. If you don't, you can type "!settings" in chat, and LunarAdmin's settings page should appear! From there, you can scroll through ++your++ settings!
 
-### Creating and instering custom commands
-#### Creating Commands
-To create commands, start out by adding LunarAdmin into your game and navigating to "CustomFeatures" in custom features, you can either go to "Server", "Client" or "Shared"; pick the one that fits your command best.
 
-For further help, please message a moderator, developer, or founder on the [Discord server](https://discord.gg/6EhZfBWxVF) about your problem, you can also email ```interstellarstudioshelp@gmail.com```, although it may have a slower responce.
-
-## Notes
+## Notes / FAQ
 Report bugs, vulnerabilities, or anything else on our [Discord server](https://discord.gg/6EhZfBWxVF)
 
 ```$``` is the current mainframe prefix
