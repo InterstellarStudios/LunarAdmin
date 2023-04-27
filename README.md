@@ -4,20 +4,27 @@ LunarAdmin is an up-to-date administrative system for ROBLOX. LunarAdmin include
 
 ## How to add LunarAdmin into your game
 
-The process of adding LunarAdmin into your game is straightforward and simple.
+If you are looking to add LunarAdmin to your game, then the process is simple and straightforward. In this guide, we will walk you through the steps involved in adding LunarAdmin to your game.
 
-### Option 1: ( Easier )
-Simply type
-Simply type:
-```lua game:GetService("InsertService"):LoadAsset(***)``` In the command bar, then on the "top bar", go to the tab "Home", here you can select "Game Settings", click on "Security", and turn on "Enable Studio Access to API Services".
+### Step 1: Download LunarAdmin
+To start, you will need to download LunarAdmin. To do this, you can visit; LUNARADMIN LINK and click the "Download" button.
 
-### Option 2: ( Harder )
+### Step 2: Open Roblox Studio
+Open Roblox Studio on your device, and go into the experience you want to add LunarAdmin to. If you don't already have Roblox Studio installed, you can download it from the [Roblox Create Page](https://www.roblox.com/create).
 
-Go to: LUNARADMINLINK, and click "download". Then, open the toolbox in studio and navigate to "My Models", then drag in "LunarAdmin".
-On the "top bar", go to the tab "Home", here you can select "Game Settings", click on "Security", and turn on "Enable Studio Access to API Services".
+### Step 3: Open The Toolbox
+Once you're in your game you would like LunarAdmin to, you can open the toolbox and navigate to "My Modules" section.
 
-[Turning on API Services: Video](https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/videos/VideoTutorial.mp4)
+### Step 4: Add LunarAdmin to your game
+From the "My Models" page, you can drag in "Lunar Admin".
 
+### Step 5: Turning on API Services
+On the "top bar" of Roblox Studio, go to "Game Settings" and click on the "Security" tab. From their, you can toggle "API Services Enabled" on.
+
+### Step 5: Testing and Configuring Lunar Admin
+Once you have LunarAdmin into your game, you can run the game in studio! If a menu pops up, you've done everything right! LunarAdmin will guide you through the process from there. If a menu doesn't pop up, say "$debug mainframe" in chat, if it still doesn't work, click "F9" and check for warnings made by LunarAdmin
+
+[Turning on API Services: Download](https://raw.githubusercontent.com/InterstellarStudios/LunarAdmin/main/extra/videos/VideoTutorial.mp4)
 [Turning on API Services: Youtube](https://www.youtube.com/watch?v=3q9dORz8yk0)
 
 ## Getting Started
@@ -31,6 +38,11 @@ To create commands, start out by adding LunarAdmin into your game and navigating
 
 For further help, please message a moderator, developer, or founder on the [Discord server](https://discord.gg/6EhZfBWxVF) about your problem, you can also email ```interstellarstudioshelp@gmail.com```, although it may have a slower responce.
 
+## Notes
+Report bugs, vulnerabilities, or anything else on our [Discord server](https://discord.gg/6EhZfBWxVF)
+
+```$``` is the current mainframe prefix
+
 ## Credits
 | Username | Position |
 | --- | --- |
@@ -39,7 +51,7 @@ For further help, please message a moderator, developer, or founder on the [Disc
 | DrDeadIy | UI Artist |
 | N/A | Project Manager |
 | N/A | Asset Modeler |
-| racingmason25 | Head Tester |
+| racingmason25 | Tester |
 | DrDeadIy | Tester | 
 
 ---
