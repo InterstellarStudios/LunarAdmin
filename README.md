@@ -31,9 +31,9 @@ Once you have LunarAdmin into your game, you can run the game in studio! If a me
 ### Using LunarAdmin
 To start using LunarAdmin, load up your game and type ```!cmds``` in the chat, a menu should appear and display LunarAdmins GUI.
 Having trouble trying to find a cool command? You can search and or filter through command tags, such as; "Fun", "Moderation", and more! If you have been using LunarAdmin for a while, you'll have access to the "FYP" section where Lunar will display commands that Lunar thinks are a good fit for you! Lunar does this by using machine-learning programs that look at recent commands you've been using. If you are unhappy with the commands Lunar displays, you can click the "Don't show this kind of command anymore". Note that doing this will make it only not appear temporarily, and might show up again based on the commands you've been using!
-### Configuring your personal preference
-If you already have the LunarAdmin menu displayed, you can simply click the Settings icon. If you don't, you can type "!settings" in chat, and LunarAdmin's settings page should appear! From there, you can scroll through ++your++ settings!
-
+### Configuring your settings
+personal preference
+If you already have the LunarAdmin menu displayed, you can simply click the Settings icon. If you don't, you can type "!settings" in chat, and LunarAdmin's settings page should appear! From there, you can scroll through __your__ settings!
 
 ## Notes / FAQ
 Report bugs, vulnerabilities, or anything else on our [Discord server](https://discord.gg/6EhZfBWxVF)
